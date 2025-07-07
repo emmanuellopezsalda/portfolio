@@ -5,7 +5,7 @@ import { GitHubIcon } from "./icons/GithubIcon";
 import { EmailIcon } from "./icons/EmailIcon";
 import { LinkedinIcon } from "./icons/LinkedinIcon";
 import { Project } from "./Project";
-import { PROJECTS } from "../data/Projects";
+import { PROJECTS } from "../data/projects.js";
 import { JOBS } from "../data/jobs";
 import { Job } from "./Job";
 import { HtmlIcon } from "./icons/HtmlIcon";
